@@ -1,0 +1,33 @@
+.poppins-normal {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+/* nav related style */
+nav{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.nav-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+.menu a{
+    text-decoration: none;
+    color: #3A3A3A;
+    font-size: 1rem;
+    font-weight: 500;
+
+}
+.logo{
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #3A3A3A;
+}
